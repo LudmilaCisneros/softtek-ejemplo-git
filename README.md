@@ -1,3 +1,3 @@
-hola# softtek-ejemplo-git
+mergueando conflictos# softtek-ejemplo-git
 ejemplo para jugar con git
 estoy practicando
